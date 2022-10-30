@@ -6,6 +6,7 @@
       <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
       </a>
       <img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
+      <img alt="Brave" src ="https://img.shields.io/badge/Brave-FB542B.svg?&style=for-the-badge&logo=Brave&logoColor=white"/>
     </div>
     <br />
     <h2>Main</h2>
@@ -20,4 +21,5 @@
       </div>
   </div>
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vbeo147)](https://github.com/anuraghazra/github-readme-stats)
 
