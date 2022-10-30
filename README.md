@@ -1,4 +1,4 @@
-<div>
+<center>
   <div>
     <h1>Vbeo147</h1>
     <div>
@@ -25,5 +25,5 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Vbeo147&show_icons=true&theme=radical" alt="" />
     </div>
   </div>
-</div>
+</center>
 
