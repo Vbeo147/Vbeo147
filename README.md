@@ -19,6 +19,7 @@
       <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
         <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
       </div>
+    <img alt="" src="https://github.com/Vbeo147/github-readme-stats" />
   </div>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vbeo147)](https://github.com/Vbeo147/github-readme-stats)
 </div>
