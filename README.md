@@ -2,7 +2,7 @@
   <div>
     <h1>Vbeo147</h1>
     <div>
-    <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+    <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
     </div>
     <h2>Main</h2>
       <div>
