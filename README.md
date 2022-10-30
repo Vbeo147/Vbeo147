@@ -20,6 +20,6 @@
         <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
       </div>
   </div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vbeo147)](https://github.com/Vbeo147/github-readme-stats)
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vbeo147)](https://github.com/anuraghazra/github-readme-stats)
 
