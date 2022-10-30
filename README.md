@@ -20,7 +20,7 @@
         <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
       </div>
     <div>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=tokyonight)
+      <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=tokyonight)" alt="" />
     </div>
   </div>
 </div>
