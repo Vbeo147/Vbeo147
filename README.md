@@ -2,7 +2,9 @@
   <div>
     <h1>Vbeo147</h1>
     <div>
-    <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+      <a href="https://github.com/Vbeo147">
+      <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+      </a>
       <img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
     </div>
     <h2>Main</h2>
