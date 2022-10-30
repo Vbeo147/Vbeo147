@@ -16,6 +16,7 @@
     <br />
     <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbeo147&layout=compact&theme=tokyonight" alt="" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Vbeo147&show_icons=true&theme=radical" alt="" />
     </div>
       <h2>Learning</h2>
       <div>
