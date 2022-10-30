@@ -1,6 +1,6 @@
-<center>
+<div>
   <div>
-    <h1>Vbeo147</h1>
+    <h1 style="text-align: center">Vbeo147</h1>
     <div>
       <a href="https://github.com/Vbeo147">
       <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
@@ -25,5 +25,5 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Vbeo147&show_icons=true&theme=radical" alt="" />
     </div>
   </div>
-</center>
+</div>
 
