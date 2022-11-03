@@ -16,7 +16,7 @@
       </div>
       <br />
       <h2>* Sub</h2>
-    <div></div>
+      <div>None</div>
       <h2>* Learning</h2>
       <div>
         <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
