@@ -23,7 +23,7 @@
         <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
         <img alt="TailwindCSS" src ="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
       </div>
-    <h2>* Stats</h2>
+    <h2>Stats</h2>
     <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbeo147&layout=compact&theme=tokyonight" alt="" />
       <img src="https://github-readme-stats.vercel.app/api?username=Vbeo147&show_icons=true&theme=radical" alt="" />
