@@ -16,12 +16,13 @@
       </div>
       <br />
       <h2>Sub</h2>
-      <div>None</div>
+      <div>
+      <img alt="TailwindCSS" src ="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+      </div>
       <h2>Learning</h2>
       <div>
         <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
         <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
-        <img alt="TailwindCSS" src ="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
       </div>
     <h2>Stats</h2>
     <div>
