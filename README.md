@@ -9,6 +9,7 @@
       <img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
       <img alt="Brave" src ="https://img.shields.io/badge/Brave-FB542B.svg?&style=for-the-badge&logo=Brave&logoColor=white"/>
       <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+      <img alt="CodePen" src ="https://img.shields.io/badge/CodePen-000000.svg?&style=for-the-badge&logo=CodePen&logoColor=white"/>
     </div>
     <br />
     <h2>Main</h2>
