@@ -26,7 +26,7 @@
       <h2>Learning</h2>
       <div>    
         <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
-        <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-#3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+        <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
       </div>
     <h2>Stats</h2>
     <div>
