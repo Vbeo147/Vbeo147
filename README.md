@@ -30,7 +30,7 @@
       </div>
       <h2>Learning</h2>
       <div>
-        None
+        <img alt="SASS" src ="https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> 
       </div>
     <h2>Stats</h2>
     <div>
