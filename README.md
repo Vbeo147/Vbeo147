@@ -31,6 +31,7 @@
       <h2>Learning</h2>
       <div>
         <img alt="SASS" src ="https://img.shields.io/badge/SASS-CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> 
+        <img alt="Gulp" src ="https://img.shields.io/badge/Gulp-CF4647.svg?&style=for-the-badge&logo=Gulp&logoColor=white"/> 
       </div>
     <h2>Stats</h2>
     <div>
