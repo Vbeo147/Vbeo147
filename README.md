@@ -3,12 +3,11 @@
 <div>
   <div>
     <div align="center">
-      <a href="https://github.com/Vbeo147">
       <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-      </a>
       <img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
       <img alt="Brave" src ="https://img.shields.io/badge/Brave-FB542B.svg?&style=for-the-badge&logo=Brave&logoColor=white"/>
       <br />
+      <img alt="Arc" src ="https://img.shields.io/badge/Arc-FCBFBD.svg?&style=for-the-badge&logo=Arc&logoColor=black"/>
       <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
       <img alt="Obsidian" src ="https://img.shields.io/badge/Obsidian-7C3AED.svg?&style=for-the-badge&logo=Obsidian&logoColor=white"/>
       <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
