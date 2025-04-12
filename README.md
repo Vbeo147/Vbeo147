@@ -8,9 +8,6 @@
     <div align="center">
       <img alt="Discord" src ="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
       <img alt="Brave" src ="https://img.shields.io/badge/Brave-FB542B.svg?&style=for-the-badge&logo=Brave&logoColor=white"/>
-      <br />
-      <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
-      <img alt="Obsidian" src ="https://img.shields.io/badge/Obsidian-7C3AED.svg?&style=for-the-badge&logo=Obsidian&logoColor=white"/>
     </div>
     <br />
     <h2>Main</h2>
