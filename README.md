@@ -1,7 +1,7 @@
-Hello! My NickName is Vbeo_
+<h1>Hello! My NickName is Vbeo_</h1>
 
-<bold>i'm currently learning java for minecraft plugin development</bold>
-i will learn programing language for my hobby
+<div>i'm currently learning java for minecraft plugin development</div>
+<div>i will learn programing language for my hobby</div>
 
 <div>
   <div>
