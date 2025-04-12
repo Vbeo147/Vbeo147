@@ -1,3 +1,7 @@
+Hello! My NickName is Vbeo_
+
+<bold>i'm currently learning java for minecraft plugin development</bold>
+i will learn programing language for my hobby
 
 <div>
   <div>
