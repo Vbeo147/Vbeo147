@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=rect&text=Vbeo147&desc=Front-end&descAlignY=90)
 <div>
   <div>
     <div align="center">
